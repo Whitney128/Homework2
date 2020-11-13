@@ -15,6 +15,8 @@ Tune Model Parameters
 Use GridSearch to tune model parameters.
 Tune and compare at least two different classifiers.
 
+Steps that were taken between both model 1 and 2 included cleaning the data, pre-processing, traning the model, hypertuning parameters.
+
 Analysis
 
 Model 1
