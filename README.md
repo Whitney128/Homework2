@@ -14,3 +14,12 @@ Tune Model Parameters
 
 Use GridSearch to tune model parameters.
 Tune and compare at least two different classifiers.
+
+Analysis
+
+Model 1
+
+Training Data Score: 0.8245279420179287
+Testing Data Score: 0.8283752860411899
+Grid Best Params: {'C': 50, 'gamma': 0.0001}
+Grid Best Score: 0.8477954285797452
