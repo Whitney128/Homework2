@@ -38,3 +38,4 @@ Grid Best Params: {'C': 100, 'max_iter': 1000}
 Grid Best Score: 0.8119428536083074
 
 After completing all requirements to come up with the training/testing data scores comparing the two models there is not much of a difference between svm and logistic regression within this dataset. 
+The gridsearch was changed from gamma to max_iter in model 2 there was also not big of a change between the two.
