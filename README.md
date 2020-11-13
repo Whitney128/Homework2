@@ -20,6 +20,19 @@ Analysis
 Model 1
 
 Training Data Score: 0.8245279420179287
+
 Testing Data Score: 0.8283752860411899
+
 Grid Best Params: {'C': 50, 'gamma': 0.0001}
+
 Grid Best Score: 0.8477954285797452
+
+Model 2
+
+Training Data Score: 0.8249094030135419
+
+Testing Data Score: 0.8335240274599542
+
+Grid Best Params: {'C': 100, 'max_iter': 1000}
+
+Grid Best Score: 0.8119428536083074
